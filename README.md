@@ -1,6 +1,10 @@
 # TicTacToeSH
  This is a simple tic tac toe game.
 ## Technology 
+The application is made in the program:
+* Borland C++ Builder
+
+Programming language:
 * C++
 ## Screenshots
 ![scr1](screenshots/scr1.png)
