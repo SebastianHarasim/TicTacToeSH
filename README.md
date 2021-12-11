@@ -1,3 +1,8 @@
 # TicTacToeSH
- 
- You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted. You can also press the
+ This is a simple tic tac toe game.
+## Technology 
+* C++
+## Screenshots
+![tekst alternatywny](ścieżka/do/pliku)
+## Setup
+To run the project you need the folder 'img' and the file 'TicTacToe.exe' in one folder. Then run the .exe file.
