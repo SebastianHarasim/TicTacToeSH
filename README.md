@@ -1,5 +1,5 @@
 # TicTacToeSH
- This is a simple tic tac toe game.
+ This is a simple tic tac toe game. The game is to make three circles or crosses in one line.
 ## Technology 
 The application is made in the program:
 * Borland C++ Builder
