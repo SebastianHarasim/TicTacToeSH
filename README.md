@@ -14,4 +14,4 @@ To run the project you need the folder 'img' and the file 'TicTacToe.exe' in one
 ## Usage
 The application is used to play with friends the classic version of the game Tic Tac Toe.
 ## Sources
-This app is inspired by 'Pasja informatyki' to the youtebe channel.
+This app is inspired by 'Pasja informatyki' to the youtube channel.
